@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, BuytTPHCMActivity!</string>
+    <string name="app_name">BuytTPHCM</string>
+    <string name="update_info">Cập nhật - Thông báo</string>
+    <string name="title_search">Tìm Kiếm</string>
+    <string name="btn_search">Tìm Kiếm</string>
+    <string name="text_ngangqua">Đi ngang qua</string>
+    <string name="help">Hướng Dẫn</string>
+    <string name="setting">Thiết Đặt</string>
+    <string name="import_data">Thiết Dặt Dữ Liệu</string>
+    <string name="routelist">Kết quả tìm kiếm</string>
+
+</resources>
